@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Love Letter to Xinhai"
+title: "Picture test"
 categories: misc
 author: Yizheng Huang
 ---
@@ -12,7 +12,7 @@ I love Xinhai so much!!!
 
 _I knew the second I met you that there was something about you I needed.  Turns out it wasn’t something about you at all. It was just you._
 
-![](https://i.loli.net/2019/08/24/LxCtzhmbi6e5Tvp.png)
+![](http://m.qpic.cn/psb?/V10NW0g30NUo4i/L.Ipj3u7O4t87B7BS8sk**EyYqlt.5fWrwx8wv15K60!/b/dFIBAAAAAAAA&bo=vALuArwC7gIRGS4!&rf=viewer_4&t=5)
 
 ---
 
