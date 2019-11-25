@@ -5,6 +5,7 @@ categories: misc
 author: Liang Guo
 ---
 Here are a few facts you might not know about Luna Lovegood, plus some details you may have missed on your first read…
+![](https://images.ctfassets.net/usf1vwtuqyxm/Mam68Vfou2OO6kqEcyW8W/41657e4dbb7d42d2cab591276105bcc1/LunaLovegood_WB_F6_LunaLovegoodInQuibblerSpecsOnHogwartsExpress_Still_080615_Port.jpg?w=914)
 
 ##She’s the ‘anti-Hermione’##
 
@@ -40,3 +41,23 @@ Luna’s name does, of course, mean ‘moon’ in Latin and throughout history t
 Harry Potter and the Order of the Phoenix
 
 ![](https://images.ctfassets.net/usf1vwtuqyxm/7mHjSUWrEkQO6WSCkSSyC8/8335c45b665e9ace0f6cfc794df844b9/Thestral_WB_F5_HarryAndLunaAndThestral_Still_100615_Land.jpg?w=914)
+
+---
+##Her eccentricities masked a fierce intellect##
+
+This one may seem like a given but because of her odd disposition Luna was often assumed to be not especially bright. She would totally be willing to believe ten impossible things before breakfast but she picked things up easily, like when she helped Harry get into the Ravenclaw common room when it was most important.
+
+‘Yeah ... trouble is, we can’t really afford to wait for anyone else, Luna.’
+‘No, I see what you mean,’ said Luna seriously. ‘Well then, I think the answer is that a circle has no beginning.’
+‘Well reasoned,’ said the voice, and the door swung open.
+Harry Potter and the Deathly Hallows
+![](https://images.ctfassets.net/usf1vwtuqyxm/5BybRlpYmAwUGaW8aS48I6/d5aa1cd1ba2e6c4512109ab0b5035fde/LunaLovegood_WB_F5_LunaLovegoodConjuringPatronus_Still_080615_Land.jpg?w=914)
+
+##She was a true Ravenclaw##
+
+Neville chuckled. Luna turned her pale eyes on him instead. ‘And I don’t know who you are.’
+‘I’m nobody,’ said Neville hurriedly.
+‘No you’re not,’ said Ginny sharply. ‘Neville Longbottom – Luna Lovegood. Luna’s in my year, but in Ravenclaw.’
+‘Wit beyond measure is man’s greatest treasure,’ said Luna in a sing-song voice.
+Harry Potter and the Order of the Phoenix
+![](https://images.ctfassets.net/usf1vwtuqyxm/Wxu9GUqdYkq2aSswUaaAu/5ed0685b70b6f6d3ea286812c4190858/LunaLovegood_WB_F6_LunaLovegoodPromoShot_Promo_080615_Port.jpg?w=914)
