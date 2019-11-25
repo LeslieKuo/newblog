@@ -7,7 +7,7 @@ author: Liang Guo
 Here are a few facts you might not know about Luna Lovegood, plus some details you may have missed on your first read…
 ![](https://images.ctfassets.net/usf1vwtuqyxm/Mam68Vfou2OO6kqEcyW8W/41657e4dbb7d42d2cab591276105bcc1/LunaLovegood_WB_F6_LunaLovegoodInQuibblerSpecsOnHogwartsExpress_Still_080615_Port.jpg?w=914)
 
-##She’s the ‘anti-Hermione’##
+## She’s the ‘anti-Hermione’ ##
 
 While this does sound a bit sinister at first – surely the polar opposite of Hermione is somebody like Bellatrix? – it was something said by J.K. Rowling that makes total sense. She said that Luna was ‘the anti-Hermione. Hermione’s so logical and inflexible in so many ways and Luna is likely to believe ten impossible things before breakfast’.
 
@@ -24,7 +24,7 @@ Harry Potter and the Half-Blood Prince
 
 
 ---
-##She married Newt Scamander’s grandson ##
+## She married Newt Scamander’s grandson ##
 
 Now that we know so much more about Newt, thanks to Fantastic Beasts and Where to Find Them (2016), it carries extra weight that Luna married into the Scamander family. They were both Magizoologists and went ‘globetrotting and looking for weird creatures’, which makes total sense for an animal-loving outsider like Luna.
 
@@ -34,7 +34,7 @@ In a Bloomsbury webchat, J.K. Rowling confirmed that Luna ‘discovered and clas
 ---
 
 
-##Her name matches her personality##
+## Her name matches her personality ##
 Luna’s name does, of course, mean ‘moon’ in Latin and throughout history the moon has been portrayed as causing people to go insane. Luna was continually teased at Hogwarts for being eccentric, for being a bit of a free agent and for following the beat of her own drum, so much so that she was perceived as being not all there. Other students nicknamed her ‘Loony’ and we would wager that this connection isn’t a coincidence.
 
 ‘Don’t worry. You’re just as sane as I am.’
@@ -43,7 +43,7 @@ Harry Potter and the Order of the Phoenix
 ![](https://images.ctfassets.net/usf1vwtuqyxm/7mHjSUWrEkQO6WSCkSSyC8/8335c45b665e9ace0f6cfc794df844b9/Thestral_WB_F5_HarryAndLunaAndThestral_Still_100615_Land.jpg?w=914)
 
 ---
-##Her eccentricities masked a fierce intellect##
+## Her eccentricities masked a fierce intellect ##
 
 This one may seem like a given but because of her odd disposition Luna was often assumed to be not especially bright. She would totally be willing to believe ten impossible things before breakfast but she picked things up easily, like when she helped Harry get into the Ravenclaw common room when it was most important.
 
@@ -53,7 +53,7 @@ This one may seem like a given but because of her odd disposition Luna was often
 Harry Potter and the Deathly Hallows
 ![](https://images.ctfassets.net/usf1vwtuqyxm/5BybRlpYmAwUGaW8aS48I6/d5aa1cd1ba2e6c4512109ab0b5035fde/LunaLovegood_WB_F5_LunaLovegoodConjuringPatronus_Still_080615_Land.jpg?w=914)
 
-##She was a true Ravenclaw##
+## She was a true Ravenclaw ##
 
 Neville chuckled. Luna turned her pale eyes on him instead. ‘And I don’t know who you are.’
 ‘I’m nobody,’ said Neville hurriedly.
