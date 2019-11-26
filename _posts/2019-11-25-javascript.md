@@ -237,3 +237,106 @@ txt.split();           // Separator is ommitted. Split in characters
 
 
 
+## JavaScript Arrays
+
+
+
+#### Creating an Array
+
+```js
+var array_name = [item1, item2, ...];
+```
+
+
+
+Using the JS keyword new
+
+```js
+var cars = new Array("Saab", "Volvo", "BMW");
+```
+
+**Looping Array Elements**
+
+```js
+var fruits, text;
+fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+text = "<ul>";
+fruits.forEach(myFunction);
+text += "</ul>";
+
+function myFunction(value) {
+  text += "<li>" + value + "</li>";
+}
+```
+
+
+
+**Adding Array Elements**
+
+The easiest way to add a new element to an array is using the `push()` method:
+
+```js
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Lemon");    // adds a new element (Lemon) to fruits
+```
+
+
+
+
+
+#### Popping and Pushing(last)
+
+The `pop()` method removes the last element from an array:
+
+```js
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.pop();              // Removes the last element ("Mango") from fruits
+```
+
+The `pop()` method returns the value that was "popped out":
+
+
+
+The `push()` method adds a new element to an array (at the end):
+
+The `push()` method returns the new array length:
+
+```js
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Kiwi");       //  Adds a new element ("Kiwi") to fruits
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+var x = fruits.push("Kiwi");   //  the value of x is 5
+```
+
+
+
+
+
+#### Shift and Unshift(first)
+
+The `shift()` method removes the first array element and "shifts" all other elements to a lower index.
+
+The `shift()` method returns the string that was "shifted out":
+
+```js
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.shift();            // Removes the first element "Banana" from fruits
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+var x = fruits.shift();    // the value of x is "Banana"
+```
+
+
+
+The `unshift()` method adds a new element to an array (at the beginning), and "unshifts" older elements:
+
+The `unshift()` method returns the new array length.
+
+```js
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.unshift("Lemon");    // Adds a new element "Lemon" to fruits
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.unshift("Lemon");    // Returns 5
+```
+
+#### Changing Elements
