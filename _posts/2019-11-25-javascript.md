@@ -3,8 +3,7 @@ layout: post
 title: JavaScript Basic
 ---
 
-# JavaScript #
-## JavaScript First Steps ##
+**JavaScript First Steps** 
 
 
 ## 1. What is JavaScript?
@@ -83,3 +82,158 @@ https://www.zhihu.com/question/23078046/answer/203531074
 [w3school js](https://www.w3schools.com/js/default.asp)
 [mozilla MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [廖雪峰javascript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
+
+
+---
+## String Methods and Properties
+
+
+
+**String** **Length**
+
+```javascript
+var txt = "ABC"
+var sln = txt.length
+```
+
+
+
+**Finding a String in a String**
+
+- IndexOf()
+
+  Return the index of the first occurrence of a specified text in a string.
+
+```javascript
+var str = "Please locate where 'locate' occurs!";
+var pos = str.indexOf("locate");
+```
+
+- lastIndexOf()
+
+  Return the index of the **last** occurrence of a specified text in a string:
+
+
+
+**Searching for a String in a String**
+
+```javascript
+var str = "Please locate where 'locate' occurs!";
+var pos = str.lastIndexOf("locate", 15);
+```
+
+
+
+**Extracting String Parts**
+
+- slice(start, end)
+- substring(start, end)
+- substr(*start*, *length*)
+
+**Replacing String Content**
+
+The `replace()` method does not change the string it is called on. It returns a new string.
+
+To replace case insensitive, use a **regular expression** with an `/i` flag (insensitive):
+
+```javascript
+str = "Please visit Microsoft!";
+var n = str.replace(/MICROSOFT/i, "W3Schools");
+```
+
+To replace all matches, use a **regular expression** with a `/g` flag (global match):
+
+```js
+str = "Please visit Microsoft and Microsoft!";
+var n = str.replace(/Microsoft/g, "W3Schools");
+```
+
+
+
+**Converting to Upper and Lower Case**
+
+```js
+var text1 = "Hello World!";       // String
+var text2 = text1.toUpperCase();
+var text1 = "Hello World!";       // String
+var text2 = text1.toUpperCase();
+```
+
+
+
+**The concat() Method**
+
+```js
+var text1 = "Hello";
+var text2 = "World";
+var text3 = text1.concat(" ", text2);
+var text = "Hello" + " " + "World!";
+var text = "Hello".concat(" ", "World!");
+```
+
+
+
+**String.trim()**
+
+The `trim()` method removes whitespace from **both sides** of a string:
+
+```js
+var str = "       Hello World!        ";
+alert(str.trim());
+```
+
+
+
+**Extracting String Characters**
+
+- charAt(position)
+
+- charCodeAt(position)
+
+- Property access[]
+
+---
+
+- charAt()
+
+  The `charAt()` method returns the character at a specified index (position) in a string:
+
+```js
+var str = "HELLO WORLD";
+str.charAt(0);            // returns H
+```
+
+- charCodeAt()
+
+  The `charCodeAt()` method returns the unicode of the character at a specified index in a string:
+
+  The method returns a UTF-16 code (an integer between 0 and 65535).
+
+- Property access
+
+```js
+var str = "HELLO WORLD";
+str[0]; 
+```
+
+
+
+**Converting a String to an Array**
+
+If the separator is omitted, the returned array will contain the whole string in index [0].
+
+If the separator is "", the returned array will be an array of single characters:
+
+```js
+var txt = "Hello";       // String
+txt.split("");           // Split in characters
+var txt = "Hello";       // String
+txt.split();           // Separator is ommitted. Split in characters
+```
+
+
+
+##### For a complete reference, go to our [Complete JavaScript String Reference](https://www.w3schools.com/jsref/jsref_obj_string.asp).:
+
+
+
