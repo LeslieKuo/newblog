@@ -1,7 +1,7 @@
 title: The Matrix # The title of the blog
 author: Guo Liang # Your name 
 email: guolg@cn.ibm.com # your email shown in the footer
-url: http://www.guoliang.online/newblog/ # this is your site's root address.
+url: http://www.guoliang.online # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   Connect the dots
 favicon: "./favicon.ico" # set the favicon of the site 
